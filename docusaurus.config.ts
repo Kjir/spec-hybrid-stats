@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Tiny Community Cup in Stats',
+  title: 'Specialist Cup in Stats - Hybrid Division',
   tagline: 'Dinosaurs are cool',
   // favicon: 'img/favicon.ico',
 
@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://kjir.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tinycc-in-stats/',
+  baseUrl: '/spec-hybrid-stats/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Kjir', // Usually your GitHub org/user name.
-  projectName: 'tinycc-in-stats', // Usually your repo name.
+  projectName: 'spec-hybrid-stats', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config: Config = {
     // Replace with your project's social card
     defaultMode: 'dark',
     navbar: {
-      title: 'Tiny Community Cup in Stats',
+      title: 'Specialist Cup in Stats - Hybrid Division',
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
