@@ -15,7 +15,7 @@ export const GameNameMappingToDisplayName = {
     'SPEC Cup': 'Cup',
     'SPEC El Dorado': 'El Dorado',
     'SPEC Evacuation': 'Evacuation',
-    'SPEC High Tides': 'Golden Lakes',
+    'SPEC High Tides': 'High Tides',
     'SPEC Isthmus': 'Isthmus',
     'SPEC Kawasan': 'Kawasan',
     'SPEC Marsh Madness': 'Marsh Madness',
