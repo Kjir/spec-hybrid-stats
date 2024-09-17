@@ -19,7 +19,7 @@ export type Filter = {
     },
 };
 
-const allStages = ['Quarter Final [w]', 'Semi Final [w]', 'Semi Final [l]', 'Final [w]', 'Final [l]'];
+const allStages = ['Group', 'Quarterfinals', 'Semifinals', 'Finals'];
 
 export default function FilterDialog(): JSX.Element {
     const onClickHandler = (isApplied) => {
