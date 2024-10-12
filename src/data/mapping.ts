@@ -1,3 +1,7 @@
+export const acceptableMisnamedMaps = {
+    "HC5 High Tides v2": "SPEC High Tides",
+};
+
 export const mapDraftNameToGameNameMapping = {
     "Bay": 'SPEC Bay',
     "Cup": 'SPEC Cup',
