@@ -4,6 +4,7 @@ export const acceptableMisnamedMaps = {
 
 export const mapDraftNameToGameNameMapping = {
     "Bay": 'SPEC Bay',
+    "Brood War": 'SPEC Brood War',
     "Cup": 'SPEC Cup',
     "El Dorado": 'SPEC El Dorado',
     "Evacuation": 'SPEC Evacuation',
@@ -11,11 +12,13 @@ export const mapDraftNameToGameNameMapping = {
     "Isthmus": 'SPEC Isthmus',
     Kawasan: 'SPEC Kawasan',
     "Marsh Madness": 'SPEC Marsh Madness',
+    Oeno: 'SPEC Oeno',
     Shoals: 'SPEC Shoals',
 };
 
 export const GameNameMappingToDisplayName = {
     'SPEC Bay': 'Bay',
+    'SPEC Brood War': 'Brood War',
     'SPEC Cup': 'Cup',
     'SPEC El Dorado': 'El Dorado',
     'SPEC Evacuation': 'Evacuation',
@@ -23,6 +26,7 @@ export const GameNameMappingToDisplayName = {
     'SPEC Isthmus': 'Isthmus',
     'SPEC Kawasan': 'Kawasan',
     'SPEC Marsh Madness': 'Marsh Madness',
+    'SPEC Oeno': 'Oeno',
     'SPEC Shoals': 'Shoals',
 };
 
